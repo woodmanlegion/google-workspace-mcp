@@ -2,7 +2,7 @@
 
 An OpenClaw plugin for Google Workspace that reaches Google only through Google's own MCP servers, the way Google says AI agents must from 1 February 2027.
 
-**Status: design stage.** There is no code yet. This README states what the plugin is for, what it is not for, and the migration path it follows. Code and a working assessment will land here as they are ready.
+**Status: aspirational work in progress, at the design stage.** There is no code yet. This README states what the plugin is for, what it is not for, and the migration path it follows. Code and a working assessment will land here as they are ready.
 
 ## Why this exists
 
